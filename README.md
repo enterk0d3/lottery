@@ -1,12 +1,12 @@
 # ethereum-training-lottery
 
 
-#Installation
+#Installation : 
 To Install all package needed, at your terminal prompt :
 npm install
 
-#Compile
+#Compile : 
 node compile.js
 
-#deploy
+#deploy : 
 node deploy.js
